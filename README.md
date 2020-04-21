@@ -37,7 +37,7 @@ When Repository class fetch the data from ApiClient class ,sends it to bloc. Blo
 
 ## Extra
 
-You can also add some Cat Facts from [here](https://cat-fact.herokuapp.com/#/).
+You can also add some Cat Facts from [here](https://cat-fact.herokuapp.com/#/) with signing up first.
 
 
 
