@@ -1,4 +1,4 @@
-# cat_facts_app
+# Cat Facts with Flutter BLoC
 
 A new Flutter project.
 
