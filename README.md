@@ -9,7 +9,8 @@ This is just a simple app that fetchs the data from cat-facts API.
 
 ## Cat Facts UI (world's disgusting ui ever)
 
-![](images/ui.png 150x20)
+<img src="images/ui.png">
+
 
 
 
