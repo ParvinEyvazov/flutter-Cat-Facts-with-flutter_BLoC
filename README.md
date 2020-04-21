@@ -27,6 +27,9 @@ dependencies:
 ```
 
 ## BLoC Diagram 
+UI sends events to bloc and bloc is trying to get data from the repository with this event information. 
+Repository goes to ApiClient class to fetch the data. ApiClient class is not necessary in small apps. However it helps to handle each job seperetaly in medium size or big apps. 
+When Repository class fetch the data from ApiClient class ,sends it to bloc. Bloc choose the state that has to return and return this state with this data.
 
 <img src="images/cat_appDiagram.PNG" width = "400">
 
