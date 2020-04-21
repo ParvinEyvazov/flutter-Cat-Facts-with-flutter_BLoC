@@ -1,0 +1,9 @@
+1-firslty make an UI with fake data                                           ->
+2-Create model classes with toJson|fromJson methods (never gonna use toJson)  ->
+3-Create Repository and ApiClient classes                                     ->
+4-Create Events and States for BLoC                                           ->
+5-Interract between Bloc and Repository                                       ->
+6-Use BLoC to show data in UI                                                 ->
+7-make sure everything is fine                                                ->
+
+8-Done
