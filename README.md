@@ -11,6 +11,8 @@ This is just a simple app that fetchs the data from cat-facts API.
 
 <img src="images/ui.png" width = "500">
 
+## BLoC Pattern
+
 Main point here is not a UI. Main pont is using BLoC pattern as State Management in Flutter.
 
 
