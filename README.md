@@ -2,7 +2,11 @@
 
 This is just a simple app that fetchs the data from cat-facts API.
 
-## API documents link
-[here](https://alexwohlbruck.github.io/cat-facts/docs/)
+## API links
+[document link](https://alexwohlbruck.github.io/cat-facts/docs/)
+
+[json file link](https://cat-fact.herokuapp.com/facts/)
+
+
 
 
