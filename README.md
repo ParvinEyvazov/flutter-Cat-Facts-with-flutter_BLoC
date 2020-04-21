@@ -15,6 +15,18 @@ This is just a simple app that fetchs the data from cat-facts API.
 
 Main point here is not a UI. Main pont is using BLoC pattern as State Management in Flutter.
 
+Import according packages as dependencies :
+
+```dart
+dependencies:
+
+  http: ^0.12.0+4
+  get_it: ^4.0.1
+  equatable: ^1.1.1
+  flutter_bloc: ^4.0.0
+```
+
+
 
 
 
