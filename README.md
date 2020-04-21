@@ -28,7 +28,7 @@ dependencies:
 
 ## BLoC Diagram 
 
-<img src="cat_appDiagram.PNG" width = "400">
+<img src="images/cat_appDiagram.PNG" width = "400">
 
 
 
