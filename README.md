@@ -3,7 +3,6 @@
 This is just a simple app that fetchs the data from cat-facts API.
 
 ## API documents link
-[here]
-(https://alexwohlbruck.github.io/cat-facts/docs/)
+[here](https://alexwohlbruck.github.io/cat-facts/docs/)
 
 
