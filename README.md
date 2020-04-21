@@ -35,6 +35,12 @@ When Repository class fetch the data from ApiClient class ,sends it to bloc. Blo
 
 <img src="images/cat_appDiagram.PNG" width = "400">
 
+## Extra
+
+You can also add some Cat Facts from [here](https://cat-fact.herokuapp.com/#/).
+
+
+
 
 
 
